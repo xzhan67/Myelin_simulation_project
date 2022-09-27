@@ -1082,78 +1082,6 @@ App.GetDocument().ReplaceMaskUsingBooleanExpression("(Myelin152 MINUS Myelin151)
 App.GetDocument().ReplaceMaskUsingBooleanExpression("(Myelin151 MINUS Axon15)", App.GetDocument().GetMaskByName("Myelin151"), App.GetDocument().GetSliceIndices(Doc.OrientationZX), Doc.OrientationZX)
 
 # 2022-09-22 10:51:01 - Mask activation
-App.GetDocument().GetGenericMaskByName("Axon16").Activate()
-
-# 2022-09-22 10:44:34 - Mask duplication
-App.GetDocument().GetActiveGenericMask().Duplicate()
-
-# 2022-09-22 10:44:35 - Mask activation
-App.GetDocument().GetGenericMaskByName("Copy of Axon16").Activate()
-
-# 2022-09-22 10:44:46 - Mask renaming
-App.GetDocument().GetGenericMaskByName("Copy of Axon16").SetName("Myelin161")
-
-# 2022-09-22 10:45:12 - Morphological filter
-App.GetDocument().ApplyDilateFilter(Doc.TargetMask, 2, 2, 0, 0.0)
-
-# 2022-09-22 10:51:01 - Mask activation
-App.GetDocument().GetGenericMaskByName("Axon16").Activate()
-
-# 2022-09-22 10:44:34 - Mask duplication
-App.GetDocument().GetActiveGenericMask().Duplicate()
-
-# 2022-09-22 10:44:35 - Mask activation
-App.GetDocument().GetGenericMaskByName("Copy of Axon16").Activate()
-
-# 2022-09-22 10:44:46 - Mask renaming
-App.GetDocument().GetGenericMaskByName("Copy of Axon16").SetName("Myelin162")
-
-# 2022-09-22 10:45:12 - Morphological filter
-App.GetDocument().ApplyDilateFilter(Doc.TargetMask, 4, 4, 0, 0.0)
-
-# 2022-09-22 10:51:01 - Mask activation
-App.GetDocument().GetGenericMaskByName("Axon16").Activate()
-
-# 2022-09-22 10:44:34 - Mask duplication
-App.GetDocument().GetActiveGenericMask().Duplicate()
-
-# 2022-09-22 10:44:35 - Mask activation
-App.GetDocument().GetGenericMaskByName("Copy of Axon16").Activate()
-
-# 2022-09-22 10:44:46 - Mask renaming
-App.GetDocument().GetGenericMaskByName("Copy of Axon16").SetName("Myelin163")
-
-# 2022-09-22 10:45:12 - Morphological filter
-App.GetDocument().ApplyDilateFilter(Doc.TargetMask, 6, 6, 0, 0.0)
-
-# 2022-09-22 10:51:01 - Mask activation
-App.GetDocument().GetGenericMaskByName("Axon16").Activate()
-
-# 2022-09-22 10:44:34 - Mask duplication
-App.GetDocument().GetActiveGenericMask().Duplicate()
-
-# 2022-09-22 10:44:35 - Mask activation
-App.GetDocument().GetGenericMaskByName("Copy of Axon16").Activate()
-
-# 2022-09-22 10:44:46 - Mask renaming
-App.GetDocument().GetGenericMaskByName("Copy of Axon16").SetName("Myelin164")
-
-# 2022-09-22 10:45:12 - Morphological filter
-App.GetDocument().ApplyDilateFilter(Doc.TargetMask, 8, 8, 0, 0.0)
-
-# 2022-09-22 10:45:31 - Voxel Boolean
-App.GetDocument().ReplaceMaskUsingBooleanExpression("(Myelin164 MINUS Myelin163)", App.GetDocument().GetMaskByName("Myelin164"), App.GetDocument().GetSliceIndices(Doc.OrientationZX), Doc.OrientationZX)
-
-# 2022-09-22 10:45:31 - Voxel Boolean
-App.GetDocument().ReplaceMaskUsingBooleanExpression("(Myelin163 MINUS Myelin162)", App.GetDocument().GetMaskByName("Myelin163"), App.GetDocument().GetSliceIndices(Doc.OrientationZX), Doc.OrientationZX)
-
-# 2022-09-22 10:45:31 - Voxel Boolean
-App.GetDocument().ReplaceMaskUsingBooleanExpression("(Myelin162 MINUS Myelin161)", App.GetDocument().GetMaskByName("Myelin162"), App.GetDocument().GetSliceIndices(Doc.OrientationZX), Doc.OrientationZX)
-
-# 2022-09-22 10:45:31 - Voxel Boolean
-App.GetDocument().ReplaceMaskUsingBooleanExpression("(Myelin161 MINUS Axon16)", App.GetDocument().GetMaskByName("Myelin161"), App.GetDocument().GetSliceIndices(Doc.OrientationZX), Doc.OrientationZX)
-
-# 2022-09-22 10:51:01 - Mask activation
 App.GetDocument().GetGenericMaskByName("Axon17").Activate()
 
 # 2022-09-22 10:44:34 - Mask duplication
@@ -2006,34 +1934,6 @@ App.GetDocument().GetActiveMask().Unpaint([Point3D(140, 141, 58)], Mask.Square, 
 Doc.OrientationXY, True)
 
 # 2020-02-16 14:42:30 - Mask activation
-App.GetDocument().GetGenericMaskByName("Myelin161").Activate()
-# 2020-02-16 15:09:58 - Paint
-App.GetDocument().GetActiveMask().Unpaint([Point3D(140, 141, 0)], Mask.Square, 300, True,
-[0,1,2,3,4,5,6,7,8,9,10,11,77,78,79,80,81,82,83,84,85,86,152,153,154,155,156,157,158,159,160,161,227,228,229,230,231,232,233,234,235,236],
-Doc.OrientationXY, True)
-
-# 2020-02-16 14:42:30 - Mask activation
-App.GetDocument().GetGenericMaskByName("Myelin162").Activate()
-# 2020-02-16 15:09:58 - Paint
-App.GetDocument().GetActiveMask().Unpaint([Point3D(140, 141, 0)], Mask.Square, 300, True,
-[0,1,2,3,4,5,6,7,8,9,10,11,77,78,79,80,81,82,83,84,85,86,152,153,154,155,156,157,158,159,160,161,227,228,229,230,231,232,233,234,235,236],
-Doc.OrientationXY, True)
-
-# 2020-02-16 14:42:30 - Mask activation
-App.GetDocument().GetGenericMaskByName("Myelin163").Activate()
-# 2020-02-16 15:09:58 - Paint
-App.GetDocument().GetActiveMask().Unpaint([Point3D(140, 141, 0)], Mask.Square, 300, True,
-[0,1,2,3,4,5,6,7,8,9,10,11,77,78,79,80,81,82,83,84,85,86,152,153,154,155,156,157,158,159,160,161,227,228,229,230,231,232,233,234,235,236],
-Doc.OrientationXY, True)
-
-# 2020-02-16 14:42:30 - Mask activation
-App.GetDocument().GetGenericMaskByName("Myelin164").Activate()
-# 2020-02-16 15:09:58 - Paint
-App.GetDocument().GetActiveMask().Unpaint([Point3D(140, 141, 0)], Mask.Square, 300, True,
-[0,1,2,3,4,5,6,7,8,9,10,11,77,78,79,80,81,82,83,84,85,86,152,153,154,155,156,157,158,159,160,161,227,228,229,230,231,232,233,234,235,236],
-Doc.OrientationXY, True)
-
-# 2020-02-16 14:42:30 - Mask activation
 App.GetDocument().GetGenericMaskByName("Myelin171").Activate()
 # 2020-02-16 15:09:58 - Paint
 App.GetDocument().GetActiveMask().Unpaint([Point3D(140, 141, 55)], Mask.Square, 300, True,
@@ -2383,18 +2283,6 @@ App.GetDocument().ReplaceMaskUsingBooleanExpression("(Microglia MINUS Myelin153)
 
 # 2022-09-22 10:45:31 - Voxel Boolean
 App.GetDocument().ReplaceMaskUsingBooleanExpression("(Microglia MINUS Myelin154)",App.GetDocument().GetMaskByName("Microglia"), App.GetDocument().GetSliceIndices(Doc.OrientationXY), Doc.OrientationXY)
-
-# 2022-09-22 10:45:31 - Voxel Boolean
-App.GetDocument().ReplaceMaskUsingBooleanExpression("(Microglia MINUS Myelin161)",App.GetDocument().GetMaskByName("Microglia"), App.GetDocument().GetSliceIndices(Doc.OrientationXY), Doc.OrientationXY)
-
-# 2022-09-22 10:45:31 - Voxel Boolean
-App.GetDocument().ReplaceMaskUsingBooleanExpression("(Microglia MINUS Myelin162)",App.GetDocument().GetMaskByName("Microglia"), App.GetDocument().GetSliceIndices(Doc.OrientationXY), Doc.OrientationXY)
-
-# 2022-09-22 10:45:31 - Voxel Boolean
-App.GetDocument().ReplaceMaskUsingBooleanExpression("(Microglia MINUS Myelin163)",App.GetDocument().GetMaskByName("Microglia"), App.GetDocument().GetSliceIndices(Doc.OrientationXY), Doc.OrientationXY)
-
-# 2022-09-22 10:45:31 - Voxel Boolean
-App.GetDocument().ReplaceMaskUsingBooleanExpression("(Microglia MINUS Myelin164)",App.GetDocument().GetMaskByName("Microglia"), App.GetDocument().GetSliceIndices(Doc.OrientationXY), Doc.OrientationXY)
 
 # 2022-09-22 10:45:31 - Voxel Boolean
 App.GetDocument().ReplaceMaskUsingBooleanExpression("(Microglia MINUS Myelin171)",App.GetDocument().GetMaskByName("Microglia"), App.GetDocument().GetSliceIndices(Doc.OrientationXY), Doc.OrientationXY)
