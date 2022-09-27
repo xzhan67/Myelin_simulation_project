@@ -1,0 +1,550 @@
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon1").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin011").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin012").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin013").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin014").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon2").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin021").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin022").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin023").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin024").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon3").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin031").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin032").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin033").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin034").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon4").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin041").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin042").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin043").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin044").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon5").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin051").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin052").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin053").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin054").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon6").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin061").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin062").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin063").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin064").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon7").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin071").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin072").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin073").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin074").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon8").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin081").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin082").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin083").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin084").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon9").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin091").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin092").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin093").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin094").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon10").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin101").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin102").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin103").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin104").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon11").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin111").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin112").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin113").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin114").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon12").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin121").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin122").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin123").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin124").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon13").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin131").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin132").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin133").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin134").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon14").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin141").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin142").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin143").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin144").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon15").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin151").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin152").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin153").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin154").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon16").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin161").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin162").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin163").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin164").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon17").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin171").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin172").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin173").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin174").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon18").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin181").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin182").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin183").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin184").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon19").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin191").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin192").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin193").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin194").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon20").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin201").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin202").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin203").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin204").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon21").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin211").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin212").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin213").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin214").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Axon22").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin221").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin222").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin223").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
+# 2020-02-16 14:42:30 - Mask activation
+App.GetDocument().GetGenericMaskByName("Myelin224").Activate()
+# 2020-02-16 15:09:58 - Paint
+App.GetDocument().GetActiveGenericMask().SetVisible(True)
+
